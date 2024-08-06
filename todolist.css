@@ -9,17 +9,27 @@ ul{
 
     text-align: left;
 }
-#tt{
-    height: 27px;
-    width: 251px;
 
-    
+.container{
+    margin-top: 30px;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
-#bat{
-    height:33px;
-    width: 47px;
+
+.input {
+    margin-left: 10px;
+    width: 180px;
+}
+
+.button {
+    width: 100px;
 
 }
-div{
-    margin-left:491px;
-} 
+
+.list {
+    display: flex;
+    justify-content: center;
+    width: 60%;
+}
