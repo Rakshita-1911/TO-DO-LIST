@@ -20,13 +20,13 @@ ul{
 
 .input {
     margin-left: 10px;
-    width: 180px;
+    width: 170px;
     
 }
 
 .button {
     width: 100px;
-
+    margin-left: 10px;  
 }
 
 .list {
